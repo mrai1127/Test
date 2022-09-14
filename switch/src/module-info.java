@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mausa
+ *
+ */
+module gugu {
+}
